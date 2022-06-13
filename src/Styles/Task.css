@@ -1,0 +1,825 @@
+@media screen and (max-width: 1920px) {
+  .Main_Container {
+    width: 120rem;
+    height: 60rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 120rem;
+    height: 30rem;
+  }
+  .Event_Details {
+    width: 71rem;
+    height: 12.25rem;
+    position: relative;
+    top: 1.25rem;
+    left: 25.438rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+    font-size: 1.125rem;
+    margin-bottom: 2.375rem;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 55rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 1.5rem;
+  }
+  .Map img {
+    width: 31.75rem;
+    height: 15rem;
+    margin-left: 7.5rem;
+    position: relative;
+    top: 5rem;
+    left: 18rem;
+  }
+  .Organizer_Profile {
+    width: 32.938rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    bottom: 9.8rem;
+    left: 60rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1.5rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 4.25rem;
+    width: 4.25rem;
+    margin-right: 2rem;
+  }
+  .Public_pic {
+    height: 3rem;
+    width: 3rem;
+    margin-left: 7rem;
+  }
+  .Carousel_div {
+    color: white;
+    width: 68.75rem;
+    height: 16.25rem;
+    position: relative;
+    bottom: 6rem;
+    left: 25rem;
+  }
+
+  .caro_img img {
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 33rem;
+    position: relative;
+    left: 60rem;
+    bottom: 8rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 15rem;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 11.25rem;
+  }
+}
+@media screen and (min-width: 1920px) {
+  .Main_Container {
+    width: 120rem;
+    height: 60rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 120rem;
+    height: 30rem;
+  }
+  .Event_Details {
+    width: 71rem;
+    height: 12.25rem;
+    position: relative;
+    top: 1.25rem;
+    left: 25.438rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+    font-size: 1.125rem;
+    margin-bottom: 2.375rem;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 55rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 1.5rem;
+  }
+  .Map img {
+    width: 31.75rem;
+    height: 15rem;
+    margin-left: 7.5rem;
+    position: relative;
+    top: 5rem;
+    left: 18rem;
+  }
+  .Organizer_Profile {
+    width: 32.938rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    bottom: 9.8rem;
+    left: 60rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1.5rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 4.25rem;
+    width: 4.25rem;
+    margin-right: 2rem;
+  }
+  .Public_pic {
+    height: 3rem;
+    width: 3rem;
+    margin-left: 7rem;
+  }
+  .Carousel_div {
+    color: white;
+    width: 68.75rem;
+    height: 16.25rem;
+    position: relative;
+    bottom: 6rem;
+    left: 25rem;
+  }
+
+  .caro_img img {
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 33rem;
+    position: relative;
+    left: 60rem;
+    bottom: 8rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 15rem;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 11.25rem;
+  }
+}
+
+@media screen and (max-width: 1536px) {
+  .Main_Container {
+    width: 96rem;
+    height: 56rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 96rem;
+    height: 25rem;
+  }
+  .Event_Details {
+    width: 71rem;
+    height: 12.25rem;
+    position: relative;
+    top: 1.25rem;
+    left: 13rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+    font-size: 1.125rem;
+    margin-bottom: 1.875rem;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 55rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 1.5rem;
+  }
+  .Map img {
+    width: 31.75rem;
+    height: 15rem;
+    margin-left: 7.5rem;
+    position: relative;
+    top: 5rem;
+    left: 5rem;
+  }
+  .Organizer_Profile {
+    width: 32.938rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    bottom: 9.8rem;
+    left: 50rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1.5rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 2rem;
+  }
+  .Public_pic {
+    height: 2.75rem;
+    width: 2.75rem;
+    margin-left: 7rem;
+  }
+  .Carousel_div {
+    color: white;
+    width: 72.5rem;
+    height: 16.25rem;
+    position: relative;
+    bottom: 6rem;
+    left: 12rem;
+  }
+
+  .caro_img img {
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 33rem;
+    position: relative;
+    left: 50rem;
+    /* bottom: 8rem; */
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 15rem;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 11.25rem;
+  }
+}
+
+@media screen and (max-width: 1280px) {
+  .Main_Container {
+    width: 80rem;
+    height: 52rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 80rem;
+    height: 25rem;
+  }
+  .Event_Details {
+    width: 60rem;
+    height: 12.25rem;
+    position: relative;
+    top: 1.25rem;
+    left: 10rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+    font-size: 1.125rem;
+    margin-bottom: 1.875rem;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 45rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 1.5rem;
+  }
+  .Map img {
+    width: 26rem;
+    height: 12rem;
+    position: relative;
+    top: 5rem;
+    left: 3rem;
+  }
+  .Organizer_Profile {
+    width: 28rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    bottom: 7rem;
+    left: 41rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1.2rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 3.5rem;
+    width: 3.5rem;
+    margin-right: 2rem;
+  }
+  .Public_pic {
+    height: 2.75rem;
+    width: 2.75rem;
+    margin-left: 7rem;
+  }
+  .Carousel_div {
+    width: 60rem;
+    height: 12.5rem;
+    position: relative;
+    bottom: 8rem;
+    left: 10rem;
+  }
+
+  .caro_img img {
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 28rem;
+    margin-top: 1.25rem;
+    position: relative;
+    left: 41rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 15rem;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 5rem;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .Main_Container {
+    width: 64rem;
+    height: 53rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 64rem;
+    height: 22.5rem;
+  }
+  .Event_Details {
+    width: 50rem;
+    height: 12.25rem;
+    position: relative;
+    left: 7.5rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 15rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.375rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+    font-size: 1.125rem;
+    margin-bottom: 1.875rem;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 35rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 1.5rem;
+  }
+  .Map img {
+    width: 23.25rem;
+    height: 13rem;
+    position: relative;
+    left: 0.1rem;
+  }
+  .Organizer_Profile {
+    width: 23.25rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    left: 34rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 3.25rem;
+    width: 3.25rem;
+    margin-right: 0.625rem;
+  }
+  .Public_pic {
+    height: 2rem;
+    width: 2rem;
+    margin-left: 7rem;
+  }
+  .Carousel_div {
+    width: 800px;
+    height: 200px;
+    /* background-color: white; */
+    position: relative;
+    left: 8rem;
+  }
+
+  .caro_img img {
+    height: 11.25rem;
+    width: 11.25rem;
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 18rem;
+    position: relative;
+    left: 34rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 12.5rem;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 3.75rem;
+  }
+}
+
+@media screen and (max-width: 640px) {
+  .Main_Container {
+    width: 40rem;
+    height: 70rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 40rem;
+    height: 20rem;
+  }
+  .Event_Details {
+    width: 32rem;
+    height: 11.813rem;
+    position: relative;
+    left: 4rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 10rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2.063rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+
+  .span {
+    margin-right: 17rem;
+  }
+  .Span_Row1 {
+    margin-bottom: 2rem;
+  }
+  .Map img {
+    width: 30.75rem;
+    height: 14.75rem;
+    position: relative;
+    top: 6rem;
+    margin-left: 4rem;
+  }
+  .Organizer_Profile {
+    width: 30rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    top: 8rem;
+    left: 4rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1.5rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 4.25rem;
+    width: 4.25rem;
+    margin-right: 0.625rem;
+  }
+  .Public_pic {
+    height: 2.5rem;
+    width: 2.5rem;
+    margin-left: 6.875rem;
+  }
+  .Carousel_div {
+    width: 480px;
+    height: 200px;
+    position: relative;
+    top: 3rem;
+    left: 4rem;
+  }
+
+  .caro_img img {
+    height: 10rem;
+    width: 10rem;
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    width: 30rem;
+    position: relative;
+    top: 25rem;
+    left: 4rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 60px;
+    width: 240px;
+    margin-top: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: large;
+    border-radius: 1rem;
+    position: relative;
+    left: 7.5rem;
+  }
+}
+
+@media screen and (max-width: 375px) {
+  .Main_Container {
+    width: 24rem;
+    height: 68rem;
+    background-color: #161616;
+  }
+  .BackGround_IMG img {
+    width: 24rem;
+    height: 14.75rem;
+  }
+  .Event_Details {
+    width: 21rem;
+    height: 12.5rem;
+    position: relative;
+    top: 0.5rem;
+    left: 2rem;
+  }
+  .Event_Details h1 {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 10rem;
+    height: 2.063rem;
+    font-weight: 700;
+    font-size: 1.5rem;
+    line-height: 2.063rem;
+  }
+  .Event_Details p {
+    color: #c1c1c1;
+  }
+  .Event_Details span p {
+    display: inline;
+    color: white;
+  }
+  .span {
+    margin-right: 5.625rem;
+  }
+  .Div_Row {
+    margin-bottom: 2rem;
+  }
+  .Map img {
+    width: 21rem;
+    height: 11.5rem;
+    margin-left: 1.5rem;
+    position: relative;
+    top: 8rem;
+  }
+  .Organizer_Profile {
+    width: 21rem;
+    height: 6rem;
+    display: flex;
+    align-items: center;
+    border-top: #2c2c2c solid 0.2rem;
+    border-bottom: #2c2c2c solid 0.2rem;
+    position: relative;
+    top: 9rem;
+    left: 1.5rem;
+  }
+  .Organizer_Profile h3 {
+    color: white;
+    font-size: 1rem;
+  }
+  .Organizer_Profile p {
+    line-height: 0.063rem;
+    margin-bottom: 2.5rem;
+    color: #cccccc;
+  }
+  .Profile_pic {
+    height: 3.25rem;
+    width: 3.25rem;
+    margin-right: 0.625rem;
+  }
+  .Public_pic {
+    height: 2.25rem;
+    width: 2.25rem;
+    margin-left: 3.875rem;
+  }
+  .Carousel_div {
+    width: 21.5rem;
+    height: 12.5rem;
+    position: relative;
+    top: 3rem;
+    left: 1.5rem;
+  }
+
+  .caro_img img {
+    height: 7rem;
+    width: 7rem;
+    border-radius: 15px;
+  }
+
+  .Ticket_Section {
+    display: inline-flex;
+    position: relative;
+    top: 23rem;
+    left: 1.5rem;
+  }
+  .Ticket_Section p {
+    color: #cccccc;
+  }
+  .Ticket_Section h1 {
+    display: inline;
+    color: white;
+  }
+  .Buy_BTN {
+    height: 3rem;
+    width: 10.375rem;
+    margin-left: 1.25rem;
+    color: black;
+    background-color: white;
+    font-size: medium;
+    border-radius: 0.875rem;
+    position: relative;
+    left: 2.5rem;
+  }
+}
